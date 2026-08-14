@@ -1,0 +1,21 @@
+{
+  "name": "midas-ai-sdk",
+  "version": "1.0.0",
+  "description": "Official Node.js SDK for Midas AI Developer Cloud APIs (JSON Extractor, PDF Parser, Screenshots, QR/Barcode, Metadata, HTML to PDF)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Don-Buri/midas-ai-sdk.git"
+  },
+  "keywords": [
+    "midas-ai",
+    "api-sdk",
+    "pdf-generator",
+    "json-extractor",
+    "screenshot-api",
+    "qr-code-api",
+    "metadata-extractor"
+  ],
+  "author": "Midas AI",
+  "license": "MIT"
+}
